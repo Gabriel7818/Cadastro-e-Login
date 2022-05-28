@@ -27,6 +27,7 @@ $logarray = $array['login'];
         $insert = mysql_query($query,$connect);
 
         if($insert){
+            
           echo"<script language='javascript' type='text/javascript'>
           alert('Usuário cadastrado com sucesso!');window.location.
           href='login.html'</script>";
