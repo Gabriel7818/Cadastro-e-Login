@@ -1,0 +1,35 @@
+.Centralizar{
+    /* display: flex; */
+    margin: 0px;
+    align-items: center;
+    width: 100px;
+    justify-content: center;
+    margin-left: 675px;
+    margin-top: 250px;
+}
+
+.Centralizar-2{
+    /* display: flex; */
+    margin: 0px;
+    align-items: center;
+    width: 100px;
+    justify-content: center;
+    margin-left: 675px;
+    margin-top: 250px;
+}
+
+.Link{
+    text-decoration: none;
+    color: black;
+    margin-left: px;
+}
+
+.Link:hover{
+    color: red;
+}
+
+#cadastrar{
+    /* max-width: 80px; */
+    text-align: center;
+    margin-left: 50px;
+}
